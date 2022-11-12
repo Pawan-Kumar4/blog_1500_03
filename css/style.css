@@ -5,6 +5,8 @@ body{
 p{
     width: 900px;
     margin: 25px auto 25px auto;
+    font-family: serif;
+    font-weight: 450;
 
 }
 h2{
